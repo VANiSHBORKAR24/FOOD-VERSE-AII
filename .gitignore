@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Environment Variables & Secrets (Keep your API keys safe!)
+.env
+*.env.local
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# OS & IDE Files
+.DS_Store
+.idea/
+.vscode/
+.agents/
+.claude/
